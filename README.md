@@ -1,6 +1,8 @@
 # reimage
 Morph images by maximizing their structural similarity.
 
+![](results/flower_to_skull.gif)
+
 ## Usage
 Just do `reimage.py <from_filename> <to_filename>`. Optional arguments:
 * `num_frames`, 128 by default
